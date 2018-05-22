@@ -12,7 +12,7 @@
 
 # Example
 ```
-docker run -i --rm -v `pwd`:/src/ sahsu/docker-gron < sample.json
+$ docker run -i --rm -v `pwd`:/src/ sahsu/docker-gron < sample.json
 json = [];
 json[0] = {};
 json[0]._id = "5b03d471c4a6e7f3ff344335";
