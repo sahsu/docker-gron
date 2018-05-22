@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5b03d471c4a6e7f3ff344335",
+    "index": 0,
+    "guid": "8dc62122-7421-469b-878a-cd416d3a17d6",
+    "isActive": true,
+    "balance": "$1,036.35",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Dorsey Bush",
+    "gender": "male",
+    "company": "RADIANTIX",
+    "email": "dorseybush@radiantix.com",
+    "phone": "+1 (804) 426-2964",
+    "address": "168 Sumpter Street, Harviell, New Hampshire, 3848"
+  }
+]
